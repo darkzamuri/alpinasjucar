@@ -1,0 +1,273 @@
+.menu-mobil {
+	display: none;
+}
+
+.top-mobil{
+	display:none;
+}
+
+
+@media screen and (max-width: 940px) { 
+
+
+.name, .lastname, .email, .telefono, .provincia, .localidad, .text {
+	max-width:300px;
+}
+
+}
+
+@media screen and (max-width: 891px) { 
+
+.top-web {
+	display:none;
+}
+
+.top-mobil {
+	display:inherit;
+}
+
+.menu-mobil {
+	display: inherit;
+	
+}
+
+.fan-page {
+	max-width:91;
+	height:91;
+	float:left;
+	padding-left:60px;
+	margin-right:20px;
+	padding-top:320px;
+}
+
+.logo-mercado {
+	max-width:91; 
+	height:91;
+	float:left;
+	padding-top:320px;
+}
+
+
+
+.marcoFotos {
+	max-width:900px;
+	margin:0 auto;
+	height:3700px;
+	
+}
+}
+
+
+
+@media screen and (max-width: 873px) { 
+
+.marcoFotos {
+	max-width:900px;
+	margin:0 auto;
+	height:3700px;
+}
+
+.marco-alpinas {
+	margin:0 auto;
+	max-width: 900px; 
+	height: 530px; 
+	background-image:url(../img/cabanias/bg-menu-cabanias.png);
+	background-repeat:repeat;
+}
+
+.img-titulo-cabanias {
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:10px;
+	
+	height:80px;
+}
+
+.img-AlpBasica {
+	margin: 0 auto;
+	padding-top:10px;
+	padding-left:20px;
+	padding-right:20px;
+
+	float:none;
+}
+
+.imgAlpPremium {
+	margin: 0 auto;
+	padding-top:30px;
+	padding-left:20px;
+	padding-right:20px;
+
+	 float:none;
+}
+}
+
+
+
+
+@media screen and (max-width: 800px) { 
+
+.name, .lastname, .email, .telefono, .provincia, .localidad, .text {
+	max-width:100%;
+	float:none;
+	padding-left:10px;
+}
+
+
+	
+
+
+.inicio-3img {
+	max-width: 700px;
+	height:600px;
+	margin:0 auto;
+	padding-top:50px;
+	
+	}
+	
+.img-artesanal {
+	margin:0 auto;
+	max-width:700px; 
+	height:154px;
+	float:none;
+	
+}
+.img-e15dias {
+	margin:0 auto;
+	 max-width:700px; 
+	 height:176px;
+	 float:none;
+	 
+}
+.img-construimos {
+	margin:0 auto;
+	max-width:700px; 
+	height:186px; 
+	float:none;
+	padding-top:40px;
+	padding-bottom:100px;
+}
+
+
+	
+}
+
+@media screen and (max-width:663px) { 
+.marcoFotos {
+	margin:0 auto;
+	height:5400px;
+}
+
+}
+
+@media screen and (max-width: 520px) {
+
+#pie {
+	height: 150px;	
+}
+	
+.botonera-bottom {
+	text-align:center;
+	padding-top:10px;
+	word-spacing: 10px;
+	text-transform: uppercase; 
+	color:#FFFFFF;
+	font-size:10px;
+	font-weight:200;
+	float:none;
+}
+
+.feet-puracreativa {
+	bottom:0px;
+	text-align:center;
+	padding-top:10px;
+	word-spacing: 4px;
+	text-transform: uppercase; 
+	color:#FFFFFF;
+	font-size:10px;
+	font-weight:200;
+	float:none;
+}
+	
+}
+
+@media screen and (max-width: 477px) {
+	
+	.titulos-alpinas {
+	margin: 0 auto;
+	text-align:center;
+	max-width:900px;
+	height:60px;
+	background-image:url(../img/cabanias/bg-texto-cabanias.png);
+	background-repeat:repeat-x;
+	font-size:24px;
+	color:#FFFFFF;
+	text-shadow: black 0.1em 0.1em 0.2em;
+	padding-left:20px;
+	padding-top:15px;
+}
+
+}
+
+@media screen and (max-width:445px) { 
+.marcoFotos {
+	margin: 0 auto;
+	max-width:900px;
+	height:10700px;
+}
+	
+.fotosCaban {
+	margin: 0 auto;
+	margin-bottom:23px;
+	width:200px;
+	height:150px;
+	float:none;
+	background-color:#D8D8D8;
+}
+
+}
+	
+	
+@media screen and (max-width: 25em) { 
+	.codrops-icon span {
+		display: none;
+	}
+	.container > header {
+		font-size: 75%;
+	}
+
+
+.top-mobil {
+	background-size: 800px 437px;
+}
+
+
+	
+.botonera-bottom {
+	display: none;
+}
+
+#pie {
+	height: 100%;	
+}
+
+
+
+.titulos-alpinas {
+	
+	font-size:20px;
+	color:#FFFFFF;
+	text-shadow: black 0.1em 0.1em 0.2em;
+	padding-left:20px;
+	padding-top:20px;
+}
+
+.info-contactos {
+	
+
+	font-size:18px;
+}
+
+
+}
+s

@@ -1,0 +1,560 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
+
+
+body {
+	font-family: 'Lato', Calibri, Arial, sans-serif;
+	background-color: #DCDCDC;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	height:100%;
+	
+	background: url(../img/back-body.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+ 
+	
+	}
+
+
+.top-web {
+	max-width: 900px;
+	height:492px;
+	margin:0 auto;
+	background-image:url(../img/logo-top-web.png);
+	background-size:auto;
+	background-repeat:no-repeat;
+	
+}
+
+.top-mobil {
+	max-width:900px;
+	margin:0 auto;
+	height:492px;
+	background-image:url(../img/logo-top-mobil.png);
+	background-repeat:no-repeat;
+
+}
+
+
+
+
+.fan-page {
+	max-width:91;
+	height:91;
+	float:right;
+	padding-left:20px;
+	margin-right:20px;
+	padding-top:20px;
+}
+
+.logo-mercado {
+	max-width:91; 
+	height:91;
+	float:right;
+	padding-top:20px;
+}
+
+
+/* BOTONES MENU PRINCIPAL */
+.menu-web {
+	
+	margin:  0 auto;
+	max-width:900px;
+	padding-top:417px;
+	float:left;
+	
+	
+}
+
+.botones {
+	font:16px; 
+	color: #FFFFFF;
+	text-transform: uppercase;
+	padding-left:10px;
+
+}
+	
+.botones a:visited, .botones a:link, .botones a:active {
+	text-decoration: none;
+	font:16px; 
+	color:#FFFFFF;
+	margin-bottom:2px; 
+	padding:8px 10px 9px; 
+}
+	
+.botones a:hover {
+	
+	color: #34CABF;
+	text-decoration: none;
+}
+
+.botones a {
+	font:16px; 
+	color:#000;
+	margin-bottom:8px; 
+	padding:8px 10px 9px; 
+	text-decoration: none;
+}
+/* FIN  BOTONES MENU PRINCIPAL */
+
+
+
+
+.menu-mobil {
+	max-width:900px;
+	margin: 0 auto;
+}
+
+
+/* SLIDER | SLIDER */
+
+.slider_container {
+	margin:0 auto;
+	position: relative; 
+	width: 900px; 
+	height: 527px; 
+	overflow: hidden;
+}
+
+.slides {
+	
+	position:absolute;
+	cursor: move;
+	width: 900px; 
+	height: 527px; 
+	overflow: hidden;	
+}
+	/* dots */
+.dots-slider div, .dots-slider div:hover, .dots-slider .av {
+	background: url(../img/slider/b21.png) no-repeat;
+	overflow:hidden;
+	cursor: pointer;
+	margin-top:25px;	
+}
+
+.dots-slider div { 
+background-position: -5px -5px; }
+
+.dots-slider div:hover, .dots-slider .av:hover { 
+background-position: -35px -5px; }
+
+.dots-slider .av { 
+background-position: -65px -5px; }
+
+.dots-slider .dn, .dots-slider .dn:hover { 
+background-position: -95px -5px; }
+		   
+	/* flechas */  
+.jssora21l, .jssora21r, .jssora21ldn, .jssora21rdn {
+position: absolute;
+cursor: pointer;
+display: block;
+background: url(../img/slider/a21.png) center center no-repeat;
+overflow: hidden;
+}
+.jssora21l { background-position: -3px -33px; }/* .jssora21l (normal) */
+.jssora21r { background-position: -63px -33px; }/* .jssora21r (normal) */
+.jssora21l:hover { background-position: -123px -33px; }/* .jssora21l:hover (normal mouseover) */
+.jssora21r:hover { background-position: -183px -33px; }/* .jssora21r:hover (normal mouseover) */
+.jssora21ldn { background-position: -243px -33px; }/* .jssora21ldn (mousedown) */
+.jssora21rdn { background-position: -303px -33px; }/* .jssora21rdn (mousedown) */
+
+/* SLIDER | SLIDER */
+
+
+/* INICIO */
+
+.marco-rosa {
+	width:100%;
+	max-height: 580px;
+	background-color: rgba(255,0,0,0.3);
+	
+}
+
+
+.texto-inicio-slider {
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:20px;
+	padding-bottom:20px;
+	color:#000000;
+	font-size:24px;
+}
+
+.inicio-3img {
+	max-width: 900px;
+	height:250px;
+	margin:0 auto;
+	padding-top:50px;
+	
+	}
+
+.img-artesanal {
+	padding-top:30px;
+	width:322px; 
+	height:154px;
+	float:left;
+}
+.img-e15dias {
+	padding-left:20px;
+	 width:313px; 
+	 height:176px;
+	 float:left;
+}
+.img-construimos {
+	width:176px; 
+	height:186px; 
+	float:right;
+	
+}
+
+
+/* EMPRESA */
+
+
+.marco-rosa-empresa {
+	width:100%;
+	max-height: 880px;
+	
+	
+}
+
+
+.texto-empresa-slider {
+	max-width:860px;
+	padding-left:20px;
+	padding-right:20px;
+	padding-top:20px;
+	padding-bottom:40px;
+	color: #E9E9E9;
+	font-size:18px;
+	background-color: rgba(0,0,0,0.6);
+	
+}
+
+
+
+/* ALPINAS */
+
+.espacio-alpinas {
+	width:100%;
+	height:10px;
+	position: inherit;
+	overflow: hidden;
+}
+	
+
+.marco-alpinas {
+	margin:0 auto;
+	max-width: 900px; 
+	height: 281px; 
+	background-image:url(../img/cabanias/bg-menu-cabanias.png);
+	background-repeat:repeat-x;
+}
+
+.img-titulo-cabanias {
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:10px;
+	max-width:517px; 
+	height:80px;
+}
+
+.img-AlpBasica {
+	padding-top:10px;
+	
+	max-width:433px;
+	height:168px;
+	float:left;
+}
+
+.imgAlpPremium {
+	padding-top:10px;
+	padding-right:20px;
+	 max-width:431px; 
+	 height:168px;
+	 float:right;
+}
+
+.divisionFtos {
+	margin: 0 auto;
+	 max-width:947px;
+	 margin-bottom:20px;
+}
+
+.marcoFotos {
+	margin: 0 auto;
+	max-width:900px;
+	height:3000px;
+}
+
+.fotosCaban {
+	margin-left:23px;
+	margin-bottom:23px;
+	width:200px;
+	height:150px;
+	float:left;
+	background-color:#D8D8D8;
+	
+	-webkit-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.31);
+	-moz-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.31);
+	box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.31);
+}
+	
+.titulos-alpinas {
+	margin: 0 auto;
+	max-width:900px;
+	height:60px;
+	background-image:url(../img/cabanias/bg-texto-cabanias.png);
+	background-repeat:repeat-x;
+	font-size:36px;
+	color:#FFFFFF;
+	text-shadow: black 0.1em 0.1em 0.2em;
+	padding-left:20px;
+	padding-top:7px;
+}
+
+.textos-alpinas {
+	max-width:860px;
+	padding-top:20px;
+	padding-left:25px;
+	padding-right:25px;
+	padding-bottom:20px;
+	margin: 0 auto;
+	color:#E0E0E0;
+	background-color: rgba(0,0,0,0.7);
+	
+}
+
+.planos {
+	max-width:900px;
+	padding-top:20px;
+	padding-bottom:20px;
+	margin: 0 auto;
+}
+
+
+
+
+/* FOOTER LINKS */
+
+#pagina-contenido {
+	min-height:100%;
+	margin-bottom:2em;
+	
+	
+}
+
+
+#pie {
+	display:block;
+	background-color: #434343;
+	width: 100%;
+	height: 200px;	
+}
+
+.footer900px {
+	margin:0 auto;
+	max-width:900px;
+	padding-left:40px;
+	padding-right:40px;
+}
+.feet-logo {
+	margin: 0 auto;
+	max-width:862px;
+	padding-top:15px;
+}
+	
+
+.botonera-bottom {
+	
+	padding-top:10px;
+	word-spacing: 10px;
+	text-transform: uppercase; 
+	color:#FFFFFF;
+	font-size:10px;
+	font-weight:200;
+	float:left;
+}
+
+.feet-puracreativa {
+	bottom:0px;
+	padding-top:10px;
+	word-spacing: 4px;
+	text-transform: uppercase; 
+	text-align:right;
+	color:#FFFFFF;
+	font-size:10px;
+	font-weight:200;
+	float:right;
+	
+}
+	
+	
+a:link, a:visited, a:active {
+	text-decoration:none;
+	color: #959595;
+}
+
+a:hover {
+	text-decoration:none;
+	color: #FD595C;
+}
+
+
+/* CONTACTOS */
+
+.info-contactos {
+	margin: 0 auto;
+	max-width:860px;
+	height:200px;
+	padding-top:20px;
+	padding-left:40px;
+	padding-right:20px;
+	font-size:34px;
+	color:#DEDEDE;
+	background-color: rgba(0,0,0,0.7);
+}
+
+
+
+/*-----------------------------------------------------------------------------------
+	FORM
+-----------------------------------------------------------------------------------*/
+
+.contacto_form {
+	padding-left:20px;
+	padding-right:20px;
+	max-width:880px;
+	height:600px;
+	margin:0 auto;
+	padding-top:10px;
+	background-color: rgba(255,255,255,0.8);
+	
+	
+	
+}
+
+.name {
+	max-width:380px;
+	padding-left:10px;
+	float:left;
+}
+.lastname {
+	padding-left:70px;
+	max-width:380px;
+	float:left;
+}
+
+.email {
+	max-width:380px;
+	padding-left:10px;
+	float:left;	
+}
+
+.telefono {
+	padding-left:70px;
+	max-width:380px;
+	float:left;
+}
+
+.provincia {
+	max-width:380px;
+	padding-left:10px;
+	float:left;	
+}
+
+.localidad {
+	padding-left:70px;
+	max-width:380px;
+	float:left;
+}
+
+.text {
+	max-width:380px;
+	padding-left:10px;
+	
+}
+	
+
+
+
+
+.asteric {
+	color: #FF8040;
+	}	
+
+#form {
+	max-width: 100%;
+	height: 100%;
+	margin-top: 10px;
+	text-align: left;
+	
+	}
+
+#form p {
+	margin-right: 10px;
+	margin-bottom: 10px;
+	font-family: Calibri, Helvetica, san-serif;
+	font-size: 0.8em;
+	}
+	
+input, textarea { 
+	border: solid 1px #E5E5E5;
+	outline: 0;
+	font: normal 23px/100% Verdana, Tahoma, sans-serif;
+	width: 100%;
+	background: #f5e7cc left top repeat-x;
+	background: -webkit-gradient(linear, left top, left 25, from(#FFFFFF), color-stop(4%, #EEEEEE), to(#FFFFFF));
+	background: -moz-linear-gradient(top, #FFFFFF, #EEEEEE 1px, #FFFFFF 25px);
+	box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px;
+	-moz-box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px;
+	-webkit-box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px;
+	}
+
+textarea { 
+	height: 100px;
+	line-height: 150%;
+	}
+
+input:hover, textarea:hover,
+input:focus, textarea:focus { 
+	border-color: #C9C9C9; 
+	-webkit-box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 8px;
+	}
+
+#form label { 
+	color: #333;
+	font-family: Calibri, Helvetica, Arial, sans-serif;
+	font-size: 1em;
+	text-align: left;
+	margin-bottom: 5px;
+	}
+
+.submit input {
+	background: #FFFFFF;
+	border: 0;
+	color: #000;
+	font-size: 12px;
+	width: 100px;
+	margin-top: 0px;
+	margin-left:10px;
+	padding: 5px 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	}
+select {
+	color: #000;
+	border: solid 1px #E5E5E5;
+	outline: 0;
+	font: normal 13px/100% Verdana, Tahoma, sans-serif;
+	
+	}
+	
+/*-----------------------------------------------------------------------------------
+	 FIN FORM
+-----------------------------------------------------------------------------------*/
