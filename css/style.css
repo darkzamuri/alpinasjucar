@@ -4,7 +4,11 @@
 
 
 #backgroundImage{z-index: 1;}
-
+.social {
+	    position: absolute;
+    /* top: 0; */
+    right: 18%;
+}
 #backgroundImage:before {
    content: "";
    position: absolute;

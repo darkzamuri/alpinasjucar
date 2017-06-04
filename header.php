@@ -69,15 +69,16 @@
                   </tr>
                </table>
             </div>
-            
-            <div class="fan-page item fadeInRight animated"> 
-               <a href="https://www.facebook.com/alpinasjucar2017/" target="_blank"><img src="img/social-facebook.png" title="Ir a Facebook"/ width="75" height="75"></a> 
-            </div>
-            <div class="fan-page item fadeInRight animated"> 
-               <a href="http://servicio.mercadolibre.com.ar/MLA-629187088-cabanas-alpinas-jucar-construccion-_JM" target="_blank"><img src="img/social-mercado.png" title="Ir a Mercadolibre"/ width="75" height="75"></a> 
-            </div>
-            <div class="fan-page item fadeInRight animated"> 
-               <a href="https://www.instagram.com/alpinasjucar/" target="_blank"><img src="img/instagram.png" title="Ir a Facebook"/ width="65" height="65"></a> 
+            <div class="social">
+               <div class="item fadeInRight animated"> 
+                  <a href="https://www.facebook.com/alpinasjucar2017/" target="_blank"><img src="img/social-facebook.png" title="Ir a Facebook"/ width="75" height="75"></a> 
+               </div>
+               <div class=" item fadeInRight animated"> 
+                  <a href="http://servicio.mercadolibre.com.ar/MLA-629187088-cabanas-alpinas-jucar-construccion-_JM" target="_blank"><img src="img/social-mercado.png" title="Ir a Mercadolibre"/ width="75" height="75"></a> 
+               </div>
+               <div class=" item fadeInRight animated"> 
+                  <a href="https://www.instagram.com/alpinasjucar/" target="_blank" style="    margin-left: 7px;"><img src="img/instagram.png" title="Ir a Facebook"/ width="60" height="60"></a> 
+               </div>
             </div>
          </div>
          <div class="top-mobil">

@@ -177,7 +177,7 @@
 
 <body ng-app="myApp" ng-controller="myCtrl">
    <div id="pagina-contenido" class="marco-rosa">
-      <table width="100%" border="0" cellspacing="0" cellpadding="0" class="{{classA}}" id="principal">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" class="{{classA}}" >
             <tbody>
                 <tr>
                     <td>
