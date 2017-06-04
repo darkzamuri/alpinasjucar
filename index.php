@@ -123,6 +123,41 @@
                     alt: 'Alpinas Jucar',
                     thumbUrl: 'img/slider/014.jpg',
                     url: 'img/slider/014.jpg'
+                },
+                {
+                    id: 15,
+                    title: 'Alpinas Jucar',
+                    alt: 'Alpinas Jucar',
+                    thumbUrl: 'img/slider/015.jpg',
+                    url: 'img/slider/015.jpg'
+                },
+                {
+                    id: 16,
+                    title: 'Alpinas Jucar',
+                    alt: 'Alpinas Jucar',
+                    thumbUrl: 'img/slider/016.jpg',
+                    url: 'img/slider/016.jpg'
+                },
+                {
+                    id: 17,
+                    title: 'Alpinas Jucar',
+                    alt: 'Alpinas Jucar',
+                    thumbUrl: 'img/slider/017.jpg',
+                    url: 'img/slider/017.jpg'
+                },
+                {
+                    id: 18,
+                    title: 'Alpinas Jucar',
+                    alt: 'Alpinas Jucar',
+                    thumbUrl: 'img/slider/018.jpg',
+                    url: 'img/slider/018.jpg'
+                },
+                {
+                    id: 19,
+                    title: 'Alpinas Jucar',
+                    alt: 'Alpinas Jucar',
+                    thumbUrl: 'img/slider/019.jpg',
+                    url: 'img/slider/019.jpg'
                 }
             ];
             $scope.submit = function() {
